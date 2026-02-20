@@ -1,0 +1,52 @@
+CONTRACT #1001 - ACME Corp Service Agreement
+Date: 2024-01-15
+Parties: ACME Corp (Provider), Beta Industries (Client)
+Term: 24 months
+Value: $120,000/year
+Termination Clause: Either party may terminate with 90 days written notice.
+Liability Cap: $500,000
+Governing Law: State of Delaware
+
+---
+
+CONTRACT #1002 - GlobalTech Licensing Agreement
+Date: 2024-02-20
+Parties: GlobalTech Inc (Licensor), StartupXYZ (Licensee)
+Term: 36 months
+Value: $50,000/year + 5% royalty on net revenue
+Termination Clause: Licensee may terminate with 30 days notice. Licensor may terminate for breach with 15 days cure period.
+Liability Cap: $1,000,000
+Governing Law: State of California
+
+---
+
+CONTRACT #1003 - DataFlow Consulting Agreement
+Date: 2024-03-10
+Parties: DataFlow Analytics (Consultant), MegaRetail Corp (Client)
+Term: 12 months, auto-renewal
+Value: $200/hour, not to exceed $300,000/year
+Termination Clause: Either party may terminate with 60 days written notice. Immediate termination for cause.
+Liability Cap: $250,000
+Governing Law: State of New York
+
+---
+
+CONTRACT #1004 - CloudNine Infrastructure Agreement
+Date: 2024-04-01
+Parties: CloudNine Services (Provider), HealthFirst Inc (Client)
+Term: 60 months
+Value: $500,000/year
+Termination Clause: Client may terminate with 180 days written notice and payment of early termination fee equal to 6 months of service fees. Provider may terminate for non-payment after 60 days.
+Liability Cap: $2,000,000
+Governing Law: State of Texas
+
+---
+
+CONTRACT #1005 - SecureNet Cybersecurity Agreement
+Date: 2024-05-15
+Parties: SecureNet Solutions (Provider), FinanceGroup LLC (Client)
+Term: 36 months
+Value: $350,000/year
+Termination Clause: Either party may terminate with 120 days written notice.
+Liability Cap: $5,000,000
+Governing Law: State of Illinois
