@@ -34,5 +34,9 @@ result = rlm.completion(
 print("\n--- Result ---")
 print(result.response)
 print(f"\n--- Usage ---")
-print(f"Total tokens: {result.usage.total_tokens}")
-print(f"Total cost: ${result.usage.total_cost:.4f}")
+for model, summary in result.usage_summary.model_usage_summaries.items():
+    print(f"  Model: {model}")
+    print(f"  Total calls: {summary.total_calls}")
+    print(f"  Input tokens: {summary.total_input_tokens}")
+    print(f"  Output tokens: {summary.total_output_tokens}")
+print(f"Execution time: {result.execution_time:.1f}s")

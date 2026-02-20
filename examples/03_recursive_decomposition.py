@@ -42,5 +42,6 @@ result = rlm.completion(
 print("\n--- Result ---")
 print(result.response)
 print(f"\n--- Metadata ---")
-print(f"Max depth reached: {result.metadata.max_depth_reached}")
-print(f"Total iterations: {result.metadata.total_iterations}")
+if result.metadata:
+    print(f"Metadata: {result.metadata}")
+print(f"Execution time: {result.execution_time:.1f}s")
